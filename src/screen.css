@@ -15,12 +15,18 @@ form{
 
 ul{
     padding-left: 10px;
-
+    font-size: 18px solid black;
 }
+a{
+    font-size: 30px;
+}
+
+
 nav{
     padding-bottom: 0px;
     padding-top: 50px;
     margin-top: 20px;
+
 }
 aside{
     margin-top: 20px;
